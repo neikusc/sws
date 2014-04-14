@@ -1,0 +1,1 @@
+My program to measure magnetization of a nano spin clusters. Configurations of clusters are stored in circle.dat or ellipse.dat files. Different shapes are required to follow the format.
